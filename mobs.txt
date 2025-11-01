@@ -1,0 +1,96 @@
+chicken
+cow
+mooshroom
+brown mooshroom
+pig
+sheep
+squid
+rabbit
+bat
+snow golem
+ocelot
+horse
+skeleton horse
+donkey
+mule
+zombie horse
+parrot
+wandering trader
+turtle
+cat
+pufferfish
+salmon
+tropical fish
+cod
+strider
+happy ghast
+axolotl
+glow squid
+allay
+frog
+tadpole
+camel
+sniffer
+armadillo
+villager
+armorer
+butcher
+cartographer
+cleric
+farmer
+fisherman
+fletcher
+leatherworker
+librarian
+mason
+shepherd
+toolsmith
+weaponsmith
+wolf
+iron golem
+polar bear
+llama
+trader llama
+dolphin
+zombified piglin
+cave spider
+spider
+panda
+fox
+bee
+piglin
+goat
+enderman
+drowned
+elder guardian
+guardian
+wither skeleton
+husk
+stray
+witch
+zombie villager
+blaze
+magma cube
+ghast
+silverfish
+slime
+zombie
+creeper
+skeleton
+shulker
+endermite
+vindicator
+pillager
+phantom
+ravager
+evoker
+vex
+hoglin
+zoglin
+piglin brute
+warden
+breeze
+bogged
+creaking
+wither
+ender dragon

@@ -1,0 +1,349 @@
+kivi
+graniitti
+dioriitti
+andesiitti
+ruohokuutio
+multa
+podsoli
+mukulakivi
+tammipuu
+koivupuu
+kuusipuu
+viidakkopuu
+akaasiapuu
+tumma tammipuu
+hiekka
+punainen hiekka
+peruskallio
+sora
+kultamalmi
+rautamalmi
+hiilimalmi
+pesusieni
+lasi
+lasuriittimalmi
+lasuriittikuutio
+hiekkakivi
+villa
+kultakuutio
+rautakuutio
+kivilaatta
+hiekkakivilaatta
+mukulakivilaatta
+tiililaatta
+kivitiililaatta
+netherintiililaatta
+kvartsilaatta
+tiiliä
+kirjahylly
+sammaloitunut kivi
+obsidiaani
+tammiportaat
+koivuportaat
+akaasiaportaat
+kuusiportaat
+viidakkopuuportaat
+tummat tammiportaat
+timanttimalmi
+timanttikuutio
+kiviportaat
+punakivimalmi
+jää
+lunta
+savi
+kurpitsa
+netherrack
+sieluhiekkaa
+hehkukivi
+kurpitsalyhty
+kivitiili
+sammaloitunut kivitiili
+murtunut kivitiili
+veistetty kivitiili
+meloni
+tiiliportaat
+kivitiiliportaat
+sienirihmasto
+netherintiilikuutio
+netherintiiliportaat
+äärikivi
+tammilaatta
+koivulaatta
+kuusilaatta
+viidakkopuulaatta
+akaasialaatta
+tumma tammilaatta
+hiekkakiviportaat
+smaragdimalmi
+smaragdikuutio
+mukulakivimuuri
+sammalkivimuuri
+netherkvartsimalmi
+kvartsikuutio
+kaiverrettu kvartsikuutio
+kvartsipilari
+kvartsiportaat
+kovettunut savi
+prismariini
+prismariinitiiliä
+tumma prismariini
+merilyhty
+heinäpaali
+hiilikuutio
+pakkautunut jää
+punainen hiekkakivi
+punainen hiekkakiviporras
+punainen hiekkakivilaatta
+purpurkuutio
+purpurpilari
+purpurportaat
+purpurlaatta
+äärikivitiili
+magmakuutio
+netherpahkakuutio
+punainen nethertiili
+luukuutio
+tammentaimi
+kuusentaimi
+koivuntaimi
+kaakaopuun taimi
+akaasiapuun taimi
+tumman tammen taimi
+tammenlehdet
+kuusenlehdet
+koivunlehdet
+viidakkopuun lehtiä
+hämähäkinseitti
+ruoho
+saniainen
+kuollut pensas
+voikukka
+tulppaani
+unikko
+orkidea
+laukka
+keijunsilmä
+päivänkakkara
+sieni
+soihtu
+arkku
+työpöytä
+uuni
+tikkaat
+kaktus
+levysoitin
+aita
+kalterit
+kivinen hirviönmuna
+lasiruutu
+köynnös
+lumpeenlehti
+lumouspöytä
+ääriportaali
+ääriarkku
+alasin
+limakuutio
+matto
+auringonkukka
+syreeni
+pitkä ruoho
+suuri saniainen
+ruusupensas
+pioni
+äärisauva
+choruskasvi
+choruskukka
+shulkerlaatikko
+maalaus
+kyltti
+sänky
+kehys
+kukkaruukku
+haarniskateline
+lippu
+äärikristalli
+jakelulaite
+sointukuutio
+tarttumamäntä
+mäntä
+dynamiitti
+vipu
+kivinen painelevy
+puinen painelevy
+punakivisoihtu
+nappi
+lattialuukku
+portti
+punakivilamppu
+ansalangan koukku
+ansoitettu arkku
+painotettu painelaatta
+päivänvalotunnistin
+redstonekuutio
+suppilo
+tiputin
+tarkkailija
+ovi
+punakivi
+punakivitoistin
+punakivivertailija
+rautaovi
+raide
+kaivosvaunu
+porkkana kepin päässä
+satula
+vene
+elytra
+lyhtykuutio
+ämpäri
+vesiämpäri
+laavaämpäri
+lumipallo
+maito
+paperia
+kirja
+limapallo
+luu
+äärenhelmi
+äären silmä
+lepakko
+roihu
+luolahämähäkki
+kana
+lehmä
+creeper
+aasi
+vanhin valvoja
+ääreläinen
+äärikirppu
+herättäjä
+hornanhenki
+suojelija
+hevonen
+holkki
+laama
+magmakuutio
+sienilehmä
+muuli
+oselotti
+sika
+jääkarhu
+jänis
+lammas
+shulker
+sokeritoukka
+luuranko
+limakuutio
+hämähäkki
+kalmari
+vaeltaja
+vex
+kyläläinen
+puhdistaja
+noita
+wither
+susi
+zombi
+zombisikamies
+lumottu pullo
+tulipallo
+kartta
+ilotulituspanos
+hevosen panssari
+musiikkilevy
+omena
+leipä
+sienimuhennos
+porsaankyljys
+kultainen omena
+kala
+lohi
+vuokkokala
+pallokala
+kakku
+keksi
+meloni
+pihvi
+mädäntynyt liha
+hämähäkinsilmä
+porkkana
+peruna
+kurpitsapiirakka
+jäniksenliha
+jänismuhennosta
+lampaanliha
+punajuuri
+punajuurikeitto
+lapio
+kuokka
+kirves
+miekka
+hakku
+tulukset
+kompassi
+onkivapa
+kello
+keritsimet
+talutushihna
+nimilappu
+lumottu kirja
+jousi
+nuoli
+nahkalakki
+nahkatakki
+nahkahousut
+nahkasaappaat
+miekka
+kypärä
+rintapanssari
+housut
+kengät
+kilpi
+kuolemattomuuden toteemi
+hornahengen kyynel
+vesipullo
+lasipullo
+roihujauhe
+magmavoide
+hautumateline
+pata
+jäniksenkäpälä
+taikajuoma
+hiili
+puuhiili
+timantti
+rautaharkko
+kultaharkko
+keppi
+kulho
+lanka
+höyhen
+ruutia
+siemeniä
+vehnää
+piikivi
+nahka
+tiili
+savi
+sokeriruoko
+kananmuna
+hehkukivijauhe
+mustepussi
+väriaine
+kaakaopavut
+lasuriitti
+luujauho
+sokeri
+roihusauva
+kultakimpale
+netherpahka
+smaragdi
+netherintähti
+nethertiili
+kvartsi
+prismariininsirpale
+prismariinikristallit
+jäniksen turkki
+chorushedelmä
+shulkerin kuori
+rautakimpale
