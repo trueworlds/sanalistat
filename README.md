@@ -11,6 +11,7 @@ Käyttö muilla servuilla kielletty, tehkää ite omat listanne :D
 - [Syksy](syksy.txt)
 - [Talvi](talvi.txt)
 - [Joulu](joulu.txt)
+- [Joulu 2025 versio](joulu2025.txt)
 - [Kaupungit](kaupungit.txt)
 - [Linnut](linnut.txt)
 - [Nisäkkäät](nisakkaat.txt)
