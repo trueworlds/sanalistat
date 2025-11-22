@@ -28,10 +28,10 @@ adventti
 joulukalenteri
 joulupäivä
 jouluaatto
-loppianen
+loppiainen
 tapaninpäivä
 joulutervehdys
-hysantti
+hyasintti
 kuusenjalka
 adventtikynttilä
 jouluvirsi
