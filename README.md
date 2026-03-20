@@ -17,3 +17,4 @@ Käyttö muilla servuilla kielletty, tehkää ite omat listanne :D
 - [Nisäkkäät](nisakkaat.txt)
 - [Minetavarat suomeksi](suomimine.txt)
 - [Mobit englanniksi](mobs.txt)
+- [Mobit suomeksi](suomimobit.txt)
